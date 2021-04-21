@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Cole "Modelo" Rudloff</h1>
-<h3 align="center">A passionate frontend web developer from Denver, CO</h3>
+<h3 align="center">A passionate front-end web developer from Denver, CO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colemodelo&label=Profile%20views&color=0e75b6&style=flat" alt="colemodelo" /> </p>
 
