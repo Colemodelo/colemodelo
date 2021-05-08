@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colemodelo&label=Profile%20views&color=0e75b6&style=flat" alt="colemodelo" /> </p>
 
-- 🔭 I’m currently working on **www.concrete2cabinetry.com** & **PocketFiction**
+- 🔭 I’m currently working on **www.concrete2cabinetry.com,** **Binary Upload Boom** & **PocketFiction**
 
 - 🌱 I’m currently learning **Node.js**
 
