@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **www.concrete2cabinetry.com,** **Binary Upload Boom** & **PocketFiction**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** & **Greek**
 
 - 👯 I’m looking to collaborate on **open-source projects & codewars kata**
 
