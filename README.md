@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js** & **Greek**
 
-- 👯 I’m looking to collaborate on **open-source projects & codewars kata**
+- 👯 I’m looking to collaborate on **open-source projects** & **codewars kata**
 
 - 👨‍💻 All of my projects are available at www.colemodelo.com
 
