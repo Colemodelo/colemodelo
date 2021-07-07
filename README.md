@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1KOPfSKwudnsckiStRtV9E7H6lLEWpXHju6TlXNb35TY/edit?usp=sharing](https://docs.google.com/document/d/1KOPfSKwudnsckiStRtV9E7H6lLEWpXHju6TlXNb35TY/edit?usp=sharing)
 
-- ⚡ Fun fact **I commute via bicycle**
+- ⚡ Fun fact  - **I commute via bicycle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
