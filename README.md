@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **colemodelo@protonmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KOPfSKwudnsckiStRtV9E7H6lLEWpXHju6TlXNb35TY/edit?usp=sharing](https://docs.google.com/document/d/1KOPfSKwudnsckiStRtV9E7H6lLEWpXHju6TlXNb35TY/edit?usp=sharing)
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1KOPfSKwudnsckiStRtV9E7H6lLEWpXHju6TlXNb35TY/edit?usp=sharing](https://docs.google.com/document/d/1KOPfSKwudnsckiStRtV9E7H6lLEWpXHju6TlXNb35TY/edit?usp=sharing) -->
 
 - ⚡ Fun fact  - **I commute via bicycle**
 
