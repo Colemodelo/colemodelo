@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects** & **codewars kata**
 
-- 👨‍💻 The address for my portfolio is www.colemodelo.com <!--All of my projects are available at www.colemodelo.com-->
+- 👨‍💻 My portfolio can be found at www.colemodelo.com <!--All of my projects are available at www.colemodelo.com-->
 
 - 📫 How to reach me **colemodelo@protonmail.com**
 
