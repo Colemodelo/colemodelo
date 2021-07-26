@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects** & **codewars kata**
 
-- 👨‍💻 My portfolio www.colemodelo.com <!--All of my projects are available at www.colemodelo.com-->
+- 👨‍💻 My portfolio www.colemodelo.carrd.co <!--All of my projects are available at www.colemodelo.com-->
 
 - 📫 How to reach me **colemodelo@protonmail.com**
 
