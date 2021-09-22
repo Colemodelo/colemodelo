@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colemodelo&label=Profile%20views&color=0e75b6&style=flat" alt="colemodelo" /> </p>
 
-- 🔭 I’m currently working on **www.concrete2cabinetry.com,** **100Devs Course-Tracker App** & **Weird Fiction - A Tale of the Strangef**
+- 🔭 I’m currently working on **www.concrete2cabinetry.com,** **100Devs Course-Tracker App** & **Weird Fiction - A Tale of the Strange**
 
 - 🌱 I’m currently learning **Node.js**, **React.js**, and **Greek**
 
