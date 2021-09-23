@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **www.concrete2cabinetry.com,** **100Devs Course-Tracker App**, & **Weird Fiction - A Tale of the Strange**
 
-- 🌱 I’m currently learning **Node.js**, **React.js**, and **Greek**
+- 🌱 I’m currently learning **Node.js**, **React**, and **Greek**
 
 - 👯 I’m looking to collaborate on **open-source projects** & **codewars kata**
 
