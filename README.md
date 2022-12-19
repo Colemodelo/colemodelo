@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Weird Fiction - A Tale of the Strange**, **northeastelectric.co** & **Beyond April Base**
 
-- 🌱 I’m currently learning **Node.js**, **React**, and **Greek**
+- 🌱 I’m currently learning **Node.js** & **React**
 
 - 👯 I’m looking to collaborate on **open-source projects** & **codewars kata**
 
