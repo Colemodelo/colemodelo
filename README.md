@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js** & **React**
 
-- 👯 I’m looking to collaborate on **open-source projects** & **game development**
+- 👯 I’m looking to collaborate on **open-source projects** & **video game development**
 
 - 👨‍💻 My website www.colemodelo.com <!--All of my projects are available at www.colemodelo.com-->
 
