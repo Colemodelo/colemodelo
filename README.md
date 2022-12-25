@@ -1,4 +1,4 @@
-<h1 align="center">Happy Holidays~!</h1>
+<h1 align="center">~Happy Holidays~</h1>
 <h1 align="center">Hi 👋, I'm Michael 'coleModelo' Rudloff</h1>
 <h3 align="center">A passionate front-end web developer from Denver, CO</h3>
 
