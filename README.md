@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Weird Fiction: A Tale of the Strange**, & **Beyond April Base**
 
-- 🌱 I’m currently learning **Node.js** & **Godot**
+- 🌱 I’m currently learning **Node.js** & **Godot/GDScript**
 
 - 👯 I’m looking to collaborate on **open-source projects** & **video-game development**
 
