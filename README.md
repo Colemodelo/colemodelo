@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Brick City**, **Weird Fiction: (A) Tale(s) of the Strange**, & **Beyond April Base**
 
-- 🌱 I’m currently learning **Node.js** & **Godot/GDScript**
+- 🌱 I’m currently learning **Node.js**, **Pixel Art**, & **Godot/GDScript**
 
 - 👯 I’m looking to collaborate on **open-source projects** & **video-game development**
 
