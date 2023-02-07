@@ -1,10 +1,10 @@
-<h1 align="center">Happy New Years!</h1>
+<!-- <h1 align="center">Happy New Years!</h1> -->
 <h1 align="center">Hi 👋, I'm Michael 'coleModelo' Rudloff</h1>
-<h3 align="center">A passionate front-end web developer from Denver, CO</h3>
+<h3 align="center">A passionate front-end web & game developer from Denver, CO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colemodelo&label=Profile%20views&color=0e75b6&style=flat" alt="colemodelo" /> </p>
 
-- 🔭 I’m currently working on **Weird Fiction: (A) Tale(s) of the Strange**, & **Beyond April Base**
+- 🔭 I’m currently working on **Brick City**, **Weird Fiction: (A) Tale(s) of the Strange**, & **Beyond April Base**
 
 - 🌱 I’m currently learning **Node.js** & **Godot/GDScript**
 
