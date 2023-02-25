@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js**, **Pixel Art**, & **Godot/GDScript**
 
-- 👯 I’m looking to collaborate on **open-source projects** & **Brick City**
+- 👯 I’m looking to collaborate on **Brick City** & **open-source projects**
 
 - 👨‍💻 My website www.colemodelo.com <!--All of my projects are available at www.colemodelo.com-->
 
